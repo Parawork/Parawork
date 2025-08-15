@@ -1,18 +1,110 @@
+<!-- Futuristic GitHub Profile README for Parakrama Rathnayaka -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Parakrama) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Parakrama) 
+<h1 align="center">
+  🚀 Parakrama Rathnayaka  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+%26+DevOps+Engineer;Cloud-Native+Architect;Problem+Solver;Tech+Innovator" alt="Typing Animation" />
+</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parawork&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parawork&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parawork&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p align="center">
+  <a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+  <a href="https://github.com/Parawork"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
+  <a href="https://linkedin.com/in/parakrama-rathnayaka-b938ab2a1"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parawork&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌌 About Me
+
+> *"Turning complex ideas into scalable, automated, and future-proof systems."*
+
+- 🎓 **BSc (Hons)** in Computer Science & Engineering — *University of Moratuwa*
+- 💼 Aspiring **Top-Tier DevOps Engineer** with full-stack development expertise
+- 🛠 Passionate about **Cloud Infrastructure, Kubernetes, CI/CD, Microservices**
+- 📡 Constant learner — keeping up with **AWS, Terraform, and Cloud-Native trends**
+- 🎯 Focused on **scalability, automation, and production-grade architectures**
+
+---
+
+## 🛠 Tech Arsenal
+
+### 💻 Frontend
+<p>
+  <img src="assets/skills/html.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/css.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/js.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/tailwind.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/mui.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/react.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/ts.png" width="50" height="50" style="margin: 4px;"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="assets/skills/node.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/express.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/mongodb.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/postgresql.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/mysql.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/prisma.png" width="50" height="50" style="margin: 4px;"/>
+</p>
+
+### 🚀 DevOps
+<p>
+  <img src="assets/skills/docker.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/kubernetes.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/git.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/linux.jpg" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/githubactions.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/aws.png" width="50" height="50" style="margin: 4px;"/>
+</p>
+
+### 🔮 Others
+<p>
+  <img src="assets/skills/go.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/python.jpg" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/figma.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/c.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/cplusplus.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/bash.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/markdown.png" width="50" height="50" style="margin: 4px;"/> 
+  <img src="assets/skills/vscode.jpg" width="50" height="50" style="margin: 4px;"/>
+</p>
+
+---
+
+## 🚧 Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [Collaborative Project Management Tool](https://github.com/MidLaneX/frontend.git) | Real-time collaboration platform with microservices & Kafka | Spring Boot, React, PostgreSQL, Docker, CI/CD | 🛠 Ongoing |
+| [Smart Supply Chain Management](https://github.com/Parawork/Warehouse-Management-Services) | Intelligent warehouse management with REST APIs & automation | Django, PostgreSQL, Supabase, Docker | ✅ Completed |
+| [AI-Powered Resume Analysis](https://jsm-resume-7rk7.puter.site) | AI-driven resume scoring & optimization insights | React, Tailwind, Docker | ✅ Completed |
+| [Medilink](https://medi-link-mu.vercel.app/) | Healthcare platform with role-based access & secure data | Next.js, MongoDB, Tailwind | ✅ Completed |
+| [Enterprise E-commerce](https://github.com/Parawork/E-commerce-platform) | Scalable e-commerce with secure payments & order mgmt | React, Express, MySQL, Docker | ✅ Completed |
+
+---
+
+## 🎓 Education
+
+- **High School:** *Maliyadeva Boys' College* (2019-2021) — Science stream  
+- **Undergraduate:** *University of Moratuwa* (2022-Present) — CSE
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parawork&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Parawork&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:parakrama.22@cse.mrt.ac.lk"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://linkedin.com/in/parakrama-rathnayaka-b938ab2a1"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/Parawork"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
